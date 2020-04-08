@@ -5,7 +5,7 @@ window.uidata = {
         },
         {
             title: "Portfolio",
-            url: "http://balogungift.ga/all/index.php"
+            url: "/all/index.php"
         },
         {
             title: "Github Page",
@@ -15,7 +15,7 @@ window.uidata = {
     config: {
         title: "Balogun Gift <br> The Offical Me",
         subtitle: "",
-        logo: "http://balogungift.ga/all/images/logo.png"
+        logo: "/all/images/logo.png"
     }
 }
 
