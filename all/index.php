@@ -1023,7 +1023,7 @@
 					</div>
 					<div>
 						<h3 class="mb-4">Website</h3>
-						<p><a href="http://balogungift.ga/">Portfolio</a></p>
+						<p><a href="">Portfolio</a></p>
 					</div>
 				</div>
 			</div>
