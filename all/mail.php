@@ -12,12 +12,12 @@ if (array_key_exists('email', $_POST)) {
     //Tell PHPMailer to use SMTP - requires a local mail server
     //Faster and safer than using mail()
     $mail->isSMTP();
-    $mail->Host = "smtp.mailtrap.io";
+    $mail->Host = "port";
     //Set this to true if SMTP host requires authentication to send email
     $mail->SMTPAuth = true;                          
     //Provide username and password     
-    $mail->Username = "20b603b09b2ce3";                 
-    $mail->Password = "f39018500518fd";                           
+    $mail->Username = "username";                 
+    $mail->Password = "password";                           
     //If SMTP requires TLS encryption then set it
     $mail->SMTPSecure = "tls";                           
     //Set TCP port to connect to 
