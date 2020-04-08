@@ -1032,7 +1032,7 @@
 		<div class="row no-gutters block-9">
 			<div class="col-md-6 order-md-last d-flex">
 				<form action="" method="POST" id="ccontactForm" class="bg-light p-4 p-md-5 contact-form"
-					novalidate="novalidate">
+					novalidate="novalidate" netlify>
 					<div class="form-group">
 						<input type="text" name="name" id="name" class="form-control" placeholder="Your Name">
 					</div>
