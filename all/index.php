@@ -1,4 +1,4 @@
-<?php include 'include/header.php' ?>
+<?php include './include/header.php' ?>
 
 <section class="hero-wrap js-fullheight">
 	<div class="overlay"></div>
@@ -19,7 +19,7 @@
 	</div>
 	</div>
 	<div class="mouse">
-		<a href="files/GiftBalogun_CV.pdf" class="mouse-icon">
+		<a href="./files/GiftBalogun_CV.pdf" class="mouse-icon">
 			<div class="mouse-wheel"><span class="ion-ios-arrow-round-down"></span></div>
 		</a>
 	</div>
@@ -32,7 +32,7 @@
 				<div class="img-about img d-flex align-items-stretch">
 					<div class="overlay"></div>
 					<div class="img d-flex align-self-stretch align-items-center"
-						style="background-image:url(images/me.jpg);">
+						style="background-image:url(./images/me.jpg);">
 					</div>
 				</div>
 			</div>
@@ -791,7 +791,7 @@
 		<div class="row no-gutters">
 			<div class="col-md-4">
 				<div class="project img ftco-animate d-flex justify-content-center align-items-center"
-					style="background-image: url(images/1.jpg);">
+					style="background-image: url(./images/1.jpg);">
 					<div class="overlay"></div>
 					<div class="text text-center p-4">
 						<h3><a href="files/ToDo.apk">ToDo Mobile App</a></h3>
@@ -801,7 +801,7 @@
 			</div>
 			<div class="col-md-4">
 				<div class="project img ftco-animate d-flex justify-content-center align-items-center"
-					style="background-image: url(images/2.jpg);">
+					style="background-image: url(./images/2.jpg);">
 					<div class="overlay"></div>
 					<div class="text text-center p-4">
 						<h3><a href="#">Brute Social Mobile App</a></h3>
@@ -812,7 +812,7 @@
 
 			<div class="col-md-4">
 				<div class="project img ftco-animate d-flex justify-content-center align-items-center"
-					style="background-image: url(images/work-3.jpg);">
+					style="background-image: url(./images/work-3.jpg);">
 					<div class="overlay"></div>
 					<div class="text text-center p-4">
 						<h3><a href="#">Branding &amp; Illustration Design</a></h3>
@@ -822,7 +822,7 @@
 			</div>
 			<div class="col-md-4">
 				<div class="project img ftco-animate d-flex justify-content-center align-items-center"
-					style="background-image: url(images/work-4.jpg);">
+					style="background-image: url(./images/work-4.jpg);">
 					<div class="overlay"></div>
 					<div class="text text-center p-4">
 						<h3><a href="#">Branding &amp; Illustration Design</a></h3>
@@ -832,7 +832,7 @@
 			</div>
 			<div class="col-md-4">
 				<div class="project img ftco-animate d-flex justify-content-center align-items-center"
-					style="background-image: url(images/work-5.jpg);">
+					style="background-image: url(./images/work-5.jpg);">
 					<div class="overlay"></div>
 					<div class="text text-center p-4">
 						<h3><a href="#">Branding &amp; Illustration Design</a></h3>
@@ -842,7 +842,7 @@
 			</div>
 			<div class="col-md-4">
 				<div class="project img ftco-animate d-flex justify-content-center align-items-center"
-					style="background-image: url(images/work-6.jpg);">
+					style="background-image: url(./images/work-6.jpg);">
 					<div class="overlay"></div>
 					<div class="text text-center p-4">
 						<h3><a href="#">Branding &amp; Illustration Design</a></h3>
@@ -1001,7 +1001,7 @@
 					</div>
 					<div>
 						<h3 class="mb-4">Contact Number</h3>
-						<p><a href="tel://+2348027237396">+234 802 723 7396</a></p>
+						<p><a href="tel:+2348027237396">+234 802 723 7396</a></p>
 					</div>
 				</div>
 			</div>
@@ -1023,7 +1023,7 @@
 					</div>
 					<div>
 						<h3 class="mb-4">Website</h3>
-						<p><a href="http://balogungift.ga/">Portfolio</a></p>
+						<p><a href="http://giftbalogun.gq/">Portfolio</a></p>
 					</div>
 				</div>
 			</div>
@@ -1054,7 +1054,7 @@
 			</div>
 
 			<div class="col-md-6 d-flex">
-				<div class="img" style="background-image: url(images/me1.jpg);"></div>
+				<div class="img" style="background-image: url(./images/me1.jpg);"></div>
 			</div>
 		</div>
 	</div>
@@ -1093,4 +1093,4 @@
 
 </section>
 
-<?php include 'include/footer.php'; ?>
+<?php include './include/footer.php'; ?>
