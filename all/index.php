@@ -1023,7 +1023,11 @@
 					</div>
 					<div>
 						<h3 class="mb-4">Website</h3>
+<<<<<<< HEAD
 						<p><a href="http://giftbalogun.gq/">Portfolio</a></p>
+=======
+						<p><a href="">Portfolio</a></p>
+>>>>>>> bb7e58fee3bb2e2c8eb56f60317754e41d9d9150
 					</div>
 				</div>
 			</div>
@@ -1032,7 +1036,7 @@
 		<div class="row no-gutters block-9">
 			<div class="col-md-6 order-md-last d-flex">
 				<form action="" method="POST" id="ccontactForm" class="bg-light p-4 p-md-5 contact-form"
-					novalidate="novalidate">
+					novalidate="novalidate" netlify>
 					<div class="form-group">
 						<input type="text" name="name" id="name" class="form-control" placeholder="Your Name">
 					</div>
