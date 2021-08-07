@@ -5,7 +5,7 @@ window.uidata = {
         },
         {
             title: "Portfolio",
-            url: "/"
+            url: "https://portfolio.giftbalogun.name.ng/"
         },
         {
             title: "Github Page",
